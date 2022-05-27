@@ -3,7 +3,7 @@
     {"id":0,"file":"
 dev tun
 proto tcp
-remote 104.198.73.35 1194 udp
+remote 47.208.107.60 1347 udp
 ;http-proxy-retry
 ;http-proxy [proxy server] [proxy port]
 cipher AES-128-CBC
